@@ -1,6 +1,10 @@
-th{
-    border: 2px solid red;
+p{
+    background-color: aqua;
 }
-td{
-    border: 2px solid black;
+a{
+    background-color: palevioletred;
+}
+
+div{
+    background-color: yellow;
 }
